@@ -4,10 +4,4 @@
 
 💻 Core Languages: C, C++, C#, and Java.
 
-🎯 Focus & Interests:
-
-🤖 Robotics & Embedded Systems (My main hardware focus).
-
-🎮 Game Development.
-
-🏆 Programming Marathons (Competitive Problem Solving).
+🎯 Focus & Interests: 🤖 Robotic, 🎮 Game Development. 🏆 Programming Marathons.
