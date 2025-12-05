@@ -1,3 +1,10 @@
+# Mateus Costa Sanches
+
+Developer in constant learning.  
+Here you’ll find my projects, studies, and notes as I grow in programming — especially in C++, C#, and Java.
+
+Feel free to explore and contribute! 🚀
+
 <img src="https://raw.githubusercontent.com/mateuscostasanches/mateuscostasanches/output/snake.svg" alt="Snake animation" />
 
 ###
