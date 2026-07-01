@@ -2,14 +2,12 @@
 
 I'm a **Computer Engineering** undergraduate with a strong interest in software development, algorithms, and Artificial Intelligence. I enjoy learning new technologies and applying them through academic and personal projects.
 
-## 🎓 About Me
+## About Me
 
 - 💻 Computer Engineering student
 - 📚 Passionate about programming and problem solving
 - 🤖 Interested in Artificial Intelligence and Natural Language Processing
 - 🌱 Always learning new technologies and improving my coding skills
-
-## 🛠️ Technologies
 
 ### Languages
 
@@ -18,34 +16,15 @@ I'm a **Computer Engineering** undergraduate with a strong interest in software 
 - C#
 - Python
 
-### Tools & Technologies
+## Current Focus
 
-- Git
-- GitHub
-- Visual Studio
-- Visual Studio Code
-- PyTorch
-- Scikit-learn
-- LaTeX
-
-## 📂 What You'll Find Here
-
-This GitHub contains:
-
-- 📘 Java programming exercises
-- ⚙️ C++ algorithms and data structures
-- 🖥️ C# applications and academic projects
-- 🐍 Python projects related to Machine Learning and Natural Language Processing
-- 📚 University assignments and experiments
-
-## 🚀 Current Focus
-
-- Machine Learning
+- Machine Learning and Data Science
 - Natural Language Processing (NLP)
-- Transformer-based Language Models
+- Competitive Programming
 - Software Development
+- Game Dev
 
-## 📫 Connect with Me
+## Connect with Me
 
 - 📧 Email: costamateus2803@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mateuscostasanches2803/
